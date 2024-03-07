@@ -7,5 +7,9 @@ print(b)
 c=str("Ram")
 print(c)
 
+
 t=sham
+print(t)
+
+t='ram'
 print(t)
