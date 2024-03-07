@@ -6,3 +6,6 @@ print(b)
 
 c=str("Ram")
 print(c)
+
+t='ram'
+print(t)
